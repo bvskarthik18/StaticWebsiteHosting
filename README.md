@@ -1,4 +1,4 @@
-﻿Hosting a Static Website on AWS
+**﻿Hosting a Static Website on AWS**
 
 ![image](https://github.com/bvskarthik18/StaticWebsiteHosting/assets/129149117/4eab7d8f-79d6-46bc-a484-f490ff2791de)
 
