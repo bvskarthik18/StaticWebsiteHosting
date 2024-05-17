@@ -19,9 +19,9 @@
 
 | Resources | Links |
 | ------ | ------ |
-| AWS | [https://www.amazon.com/console][PlDb] |
-| GitHub | [https://github.com][PlGh] |
-| circleci | [https://www.circleci.com/][PlGd] |
-| websites | [https://www.tooplate.com/][PlOd] |
+| AWS | [https://www.amazon.com/console] |
+| GitHub | [https://github.com] |
+| circleci | [https://www.circleci.com/] |
+| websites | [https://www.tooplate.com/] |
 
 > Note: I took templates or this website from the tooplates.com to practise and complete the task.
